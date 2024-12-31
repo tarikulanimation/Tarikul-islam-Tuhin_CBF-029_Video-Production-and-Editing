@@ -38,7 +38,8 @@ Welcome to the *Video Production and Editing Training Program*. This foundationa
 | *GitHub Profile:*     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub]([https://github.com/nusratJE](https://github.com/tarikulislamanimator)) |
 | *Freelancing Profile:*| ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.fiverr.com/tuhin_islam07) |
 | **Shutterstock Profile:**| ![Shutterstock](https://img.shields.io/badge/Shutterstock-Contribute-red) [Explore Shutterstock Contributions](https://www.shutterstock.com/g/Tarikulislam07) |
-| *Project Google Drive Link:* | ![Google Drive](https://img.shields.io/badge/Google%20Drive-Projects-yellowgreen?logo=google-drive) [Access Project Files]([https://drive.google.com/drive/folders/1_0YxYR5avpr8l3Guqqt_rb_qIftryUYT]([https://drive.google.com/drive/folders/1yRM4Q1ZTBVleG69co93bv-T9cMxFQju-?](https://drive.google.com/drive/folders/1Km970iAOrUUBizvb3TIQQhDv2Zc8Cybx?)) |
+| **Project Google Drive Link:** | ![Google Drive](https://img.shields.io/badge/Google%20Drive-Projects-yellowgreen?logo=google-drive) [Access Project Files](https://drive.google.com/drive/folders/1Km970iAOrUUBizvb3TIQQhDv2Zc8Cybx?) |
+
 
 ---
 
