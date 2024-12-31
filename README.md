@@ -32,7 +32,7 @@ Welcome to the *Video Production and Editing Training Program*. This foundationa
 |-------------------------|-------------------------------------------------------------------------|
 | *Name:*               | Tarikul islam Tuhin                                                         |
 | *Mobile No:*          | +8801904425323                                                          |
-| *Email ID:*           | atbro290@gmail.com                                                 |
+| *Email ID:*           | tarikulislamanimation@gmail.com                                               |
 | *YouTube Profile:* | ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.youtube.com/@tarikulislamanimation) |
 | *LinkedIn Profile:*   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn]([https://www.linkedin.com/in/nusrat-jerin-709b0b331/](https://www.linkedin.com/in/tarikulislamanimator/)) |
 | *GitHub Profile:*     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub]([https://github.com/nusratJE](https://github.com/tarikulislamanimator)) |
